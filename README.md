@@ -23,27 +23,6 @@ Quản lý đoàn viên là ta quản lý các thông tin về đoàn viên là 
  Các thao tác trong quá trình Quản lý là ta phải lưu hồ sơ về Đoàn viên, tạo mới, sửa đổi, bổ sung, loại bỏ các thông tin hoặc hồ sơ Đoàn viên. Các tiện ích hỗ trợ người quản lý mà chương trình Quản lý Đoàn viên phải có là : Tìm kiếm, Báo cáo,Tính toán, In ấn , …
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 CHƯƠNG II. PHÂN TÍCH CƠ SỞ DỮ LIỆU
 Đặt vấn đề :
 Khi Quản lý đoàn viên-sinh viên ta phải Quản lý thông tin gì về Đoàn viên?
@@ -72,6 +51,27 @@ SSV->Theo dõi hàng năm(Năm, ưu khuyết điểm, Xếp loại)
             Chi đoàn -> Khoá học
 
 Lược đồ  quan hệ (trang sau):
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
