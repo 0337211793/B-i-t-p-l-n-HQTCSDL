@@ -518,24 +518,6 @@ Cách 1 : chọn trực tiếp từ menu  In an . Nhưng khi chọn chương tr�
 Cách 2 : chọn nút “In ấn” từ chương trình chính . Khi form In ấn xuất hiện (như hình 27) . Ta chọn lấy 1 kiểu . nếu muốn xem trước khi in thì ta chọn nút”Xem trước” nếu muốn in thì chọn nút “In”
 Vì report cho ta khả năng In ấn nên ta có thể in ấn bất cứ một báo cáo hay thống kê nào , ta chỉ việc chọn công cụ Print của report 
 
-MỤC LỤC
-Chương 1. Khả năng của cơ sở dữ liệu
-1 . Lời mở đầu
-2. Khái niệm về CSDL và HQTCSDL
-Chương 2. Phân tích cơ sở dữ liệu
-Chương 3. Các đối tượng
-I . Đối tượng bảng
-II. Đối tượng Form
-III. Đối tượng Marcro và Hệ thống Menu
-      1.Macro
-      2.Menu
-IV. Đối tượng Querry
-V.Đối tượng Report
-Chương 4. Sử dụng chương trình
-1.Nhập thông số ban đầu
-2.Nhập dữ liệu
-3.Xem dữ liệu
-4.Tìm kiếm
 5.Báo cáo và Thống kê
 
 
