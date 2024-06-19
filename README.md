@@ -1,14 +1,10 @@
 Mục Lục:
 
-CHƯƠNG I. KHẢ NĂNG CỦA CƠ SỞ DỮ LIỆU
-
+CHƯƠNG I. KHẢ NĂNG CỦA CƠ SỞ DỮ LIỆU	
 1.Lời nói đầu	
-
-2. Khái niệm về cơ sở dữ liệu và Hệ quản trị cơ sở dữ liệu
-3. 	
-4. Giới thiệu về Access
-5. 
-6. Mục đích của Quản ly đoàn viên?
+2. Khái niệm về cơ sở dữ liệu và Hệ quản trị cơ sở dữ liệu	
+3. Giới thiệu về Access	
+4. Mục đích của Quản ly đoàn viên?	
 
 CHƯƠNG II. PHÂN TÍCH CƠ SỞ DỮ LIỆU	
 Lược đồ  quan hệ (trang sau):	
@@ -24,7 +20,7 @@ III . Macro và hệ thống menu
 1. Macros	
 2 . Hệ thống menu	
 a. Menu Nhap du lieu	
-b.Menu Tien ich	
+b.Menu Tien ich	34
 c.Menu Danh sach	
 d.Menu Timkiem	
 e.Menu Bao cao	
