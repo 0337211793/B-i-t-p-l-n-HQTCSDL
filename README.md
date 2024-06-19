@@ -176,9 +176,19 @@ I. Đối tượng bảng
 1.Các bảng 
     Có tổng cộng 15 bảng  như trong Hình1 dưới đây :
      
-                         Hình1 – Hệ thống các bảng
-           Bảng 1 : T_Ly lich doan vien
-           Bảng này chứa các thông tin cá nhân về đoàn viên và các thông tin về thẻ đoàn viên . Trường khóa là : MA SV
+
+
+![Ảnh chụp màn hình 2024-06-17 092857](https://github.com/0337211793/B-i-t-p-l-n-HQTCSDL/assets/169513994/16a0bdcf-cb48-48e5-a9db-cb2547199975)
+
+
+
+
+
+
+
+
+
+    
 Tên trường	Kiểu dữ liệu	Giải thích
 MA SV	Number	Mã số sinh viên của Đoàn viên
 MSDV	Number	Mã số Đoàn viên của đoàn viên
