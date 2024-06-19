@@ -213,60 +213,59 @@ CHUC DANH CAP CD	Number	Mã chức danh cấp Chi đoàn của đoàn viên
 TRUONG	Number	Mã trường của đoàn viên
 Bảng 2 : 			T_Dan toc
   Bảng này gồm 2 trường, trường khoá là : MA DT. Trường này để lưu mã của dân tộc, còn trường DAN TOC để lưu tên của dân tộc. 
- 
+![Ảnh chụp màn hình 2024-06-17 085426](https://github.com/0337211793/B-i-t-p-l-n-HQTCSDL/assets/169513994/acd9f5ec-8d3f-447b-a113-f36ca2aa5dd3)
 Hình 2 – Bảng dân tộc
 Bảng 3:		T_Ton giao
 Bảng này gồm 2 trường , trường khoá là MA TON GIAO để lưu mã của tôn giáo còn trường TON GIAO để lưu tên của tôn giáo tương ứng
- 
+ ![Ảnh chụp màn hình 2024-06-17 085808](https://github.com/0337211793/B-i-t-p-l-n-HQTCSDL/assets/169513994/0a781752-bc95-4c36-ba2a-0e37ccfac47c)
 Hình 3 – Bảng tôn giáo
 Bảng 4:		T_Gioi tinh
  Trường MA GT có kiểu Yes/No để lưu mã của giới tính là trường khoá, còn trường GIOI TINH để lưu tên của giới tính tương ứng
- 
+ ![Ảnh chụp màn hình 2024-06-17 090017](https://github.com/0337211793/B-i-t-p-l-n-HQTCSDL/assets/169513994/c43c6e44-55d2-434b-874e-41f310bda908)
 Hình 4 – Bảng giới tính
 Bảng 5:		T_Chuc danh
 Bảng này dùng để lưu các 
- 
+ ![Ảnh chụp màn hình 2024-06-17 090122](https://github.com/0337211793/B-i-t-p-l-n-HQTCSDL/assets/169513994/44f1ed05-7c83-4342-a7a7-ecaa21fec4a1)
 Hình 5 – Bảng chức danh
 Bảng 6:		T_Trinh do DV
 Bảng này lưu trữ các thông tin về trình độ văn hoá và lý luận chính trị của đoàn viên   có các trường và kiểu dữ liệu như trong hình
- 
+ ![Ảnh chụp màn hình 2024-06-17 090459](https://github.com/0337211793/B-i-t-p-l-n-HQTCSDL/assets/169513994/8798bb08-7641-4f82-a5eb-a4fe7b610e04)
 Hình6 – Bảng trình độ đoàn viên
 Bảng 7:		T_Chi doan_Khoa
 Bảng này lưu trữ các chi đoàn trong cùng một khoá của tất cả các khoa
- 
+ ![Ảnh chụp màn hình 2024-06-17 091003](https://github.com/0337211793/B-i-t-p-l-n-HQTCSDL/assets/169513994/6d418bfb-702e-4cd5-a246-6ed7863a8b7e)
 Hình7 – Bảng trình chi đoàn theo khoá
 Bảng 8:		T_Khoa hoc
 Bảng này lưu trữ các khoá học của trường , kết quả này ta không nhập trực tiếp mà chương trình tự động tính toán khi biết khoá hiện tại và số năm đào tạo của trường 
- 
+ ![Ảnh chụp màn hình 2024-06-17 091109](https://github.com/0337211793/B-i-t-p-l-n-HQTCSDL/assets/169513994/d7bc235d-fdec-4d8e-b3b4-58cdb3b2412e)
 Hình 8– Bảng khoá học
 Bảng 9:		T_Truong
 Bảng này lưu các thông tin về trường mà ta cần quản lý. Các thông tin cơ bản là : tên trường, khoá hiện tại, năm hiện tại, số năm đào tạo.
- 
+ ![Ảnh chụp màn hình 2024-06-17 091305](https://github.com/0337211793/B-i-t-p-l-n-HQTCSDL/assets/169513994/caf79850-026b-4545-8c06-b25e7391d2c0)
 Hình 9 – Bảng trường
 Bảng 10:		T_Lien chi doan
 Bảng này lưu thông tin về các Liên chi đoàn trực thuộc trường
- 
+ ![Ảnh chụp màn hình 2024-06-17 091405](https://github.com/0337211793/B-i-t-p-l-n-HQTCSDL/assets/169513994/f4398521-8807-47bf-a41a-a07367161f66)
 Hình 10 – Bảng Liên chi đoàn
 Bảng 11			T_Lien chi doan_Chi doan
 Bảng này lưu các chi đoàn tất cả các khoá học của cùng một Liên chi đoàn 
- 
+ ![Ảnh chụp màn hình 2024-06-17 091534](https://github.com/0337211793/B-i-t-p-l-n-HQTCSDL/assets/169513994/a449946d-d25f-4575-a6ab-cb9475148edb)
 Hình 11 – Bảng chi đoàn của một Liên chi đoàn
 Bảng 12:		T_Gia dinh doan vien
 Bảng này lưu thông tin về gia đình của đoàn viên, các thông tin đó là về cha mẹ, tình trạng gia đình (có vợ hoặc chồng, số con nếu có).
- 
+ ![Ảnh chụp màn hình 2024-06-17 091858](https://github.com/0337211793/B-i-t-p-l-n-HQTCSDL/assets/169513994/9912937e-7070-4b98-b0e2-828f560998a9)
 Hình 12 – Bảng gia đình đoàn viên
 Bảng 13:			T_Danh gia hang nam
 Bảng này lưu các thông tin về theo dõi ưu khuyết điểm hàng năm của đoàn viên 
- 
+ ![Ảnh chụp màn hình 2024-06-17 092133](https://github.com/0337211793/B-i-t-p-l-n-HQTCSDL/assets/169513994/603f968f-0cfa-45dd-bfdc-084895358c10)
 Hình 13 – Bảng theo dõi hàng năm của đoàn viên
 Bảng 14:		T_Mat khau
 Bảng này lưu thông tin về tên ngướiử dụng chương trình và mật khẩu 
- 
+ ![Ảnh chụp màn hình 2024-06-17 092436](https://github.com/0337211793/B-i-t-p-l-n-HQTCSDL/assets/169513994/9565524f-5d91-40c4-a4e9-665b54297514)
 Hình 14 – Bảng mật khẩu
-
 Bảng 15:		T_Xep loai
 Bảng này lưu các loại của xếp loại : có 4 loại ( Xuất sắc, khá, trung bình, yếu kém).
- 
+ ![Ảnh chụp màn hình 2024-06-17 092527](https://github.com/0337211793/B-i-t-p-l-n-HQTCSDL/assets/169513994/97067ba4-f414-43c1-a866-7d5231911d87)
 Hình 15– Bảng xếp loại
 2. Các quan hệ
     Quan hệ giữa các bảng được thể hiện như trong Hình16  sau:
