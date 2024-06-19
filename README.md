@@ -64,6 +64,7 @@ Lược đồ  quan hệ (trang sau):
 
 
 
+![Ảnh chụp màn hình 2024-06-19 013929](https://github.com/0337211793/B-i-t-p-l-n-HQTCSDL/assets/169513994/c8892554-e455-4a40-9be9-ef51e8a8e518)
 
 
 
