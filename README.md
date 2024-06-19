@@ -211,6 +211,7 @@ CHUC DANH CAP TRUONG	Number	Mã chức danh cấp trường của đoàn viên
 CHUC DANH CAP LCD	Number	Mã chức danh cấp liên chi đoàn của đoàn viên
 CHUC DANH CAP CD	Number	Mã chức danh cấp Chi đoàn của đoàn viên
 TRUONG	Number	Mã trường của đoàn viên
+
 Bảng 2 : 			T_Dan toc
   Bảng này gồm 2 trường, trường khoá là : MA DT. Trường này để lưu mã của dân tộc, còn trường DAN TOC để lưu tên của dân tộc. 
 ![Ảnh chụp màn hình 2024-06-17 085426](https://github.com/0337211793/B-i-t-p-l-n-HQTCSDL/assets/169513994/acd9f5ec-8d3f-447b-a113-f36ca2aa5dd3)
@@ -283,7 +284,7 @@ Hình 15– Bảng xếp loại
 
 2. Các quan hệ
     Quan hệ giữa các bảng được thể hiện như trong Hình16  sau:
-      
+      ![Ảnh chụp màn hình 2024-06-19 015800](https://github.com/0337211793/B-i-t-p-l-n-HQTCSDL/assets/169513994/100f7f12-db2a-446a-947d-6ca5e787f244)
 Hình16 – Quan hệ giữa các bảng
 
 II . Đối tượng Form
