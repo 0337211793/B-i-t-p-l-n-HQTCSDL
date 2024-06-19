@@ -3,8 +3,10 @@ CHƯƠNG I. KHẢ NĂNG CỦA CƠ SỞ DỮ LIỆU
 1.Lời nói đầu
 Kỷ nguyên công nghệ thông tin – tên mà người ta vẫn thường gọi kỷ nguyên mà chúng ta đang sống. Khi đi bất cứ đâu ta cũng bắt gặp công nghệ thông tin. Nó xâm nhập vào mọi lĩnh vực của đời sống xã hội, mọi nghành, mọi nghề, mọi lĩnh vực. Ngày nay, không ai còn nghi ngờ gì về vai trò của thông tin trong đời sống, trong kỹ thuật, trong kinh doanh, trong quản lý,…Việc nắm bắt thông tin nhanh, chính xác kịp thời ngày càng có vai trò quyết định cho công tác quản lý điều hành. Nói cách khác ngày nay, Quản Lý thực chất là Quản lý thông tin. Để quản lý được các thông tin đó trên máy tình thì các thông tin đó bao giờ cũng được thể hiện bằng Dữ liệu ( Data) ghi trên dạng tải nào đó. Bởi vậy khi ta nói quản lý thông tin là Quản lý dữ liệu.
 2. Khái niệm về cơ sở dữ liệu và Hệ quản trị cơ sở dữ liệu
+
 Trong những năm gần đây thuật ngữ Cơ sở dữ liệu ( Database) không còn xa lạ với những người làmn tin học. Ngày nay các ứng dụng tin học có trong mọi lĩnh vực và ngày càng có xu hướng tăng nhanh. Xu hướng tích cực đó kéo theo ngày càng có đông đảo người tham gia, quan tâm đến thiết kế xây dựng các cơ sở dữ liệu. Ngày nay có rất nhiều mô hình Cơ sở dữ liệu, mỗi mô hình đều có ưu nhược điểm của mình, tuy nhiên mô hình Cơ sở dữ liệu quan hệ (Relational data Model) do E.Codd đề xuất tỏ ra có nhiều ưu điểm khi thiết kế các ứng dụng vừa và nhỏ . 
 Dựa trên các mô hình Cơ sở dữ liệu, các hãng máy tính lớn đã xây dựng các Hệ quản trị Cơ sở dữ liệu có nhiều khả năng rất mạnh. Đó là những công cụ tốt cho người lập trình, để giúp họ xây dựng nên các ứng dụng quản lý đa dạng, phục vụ cho mọi yêu cầu của công tác quản lý và điều hành.
+
 Các khái niệm :
 a)	Cơ sở dữ liệu ( Database)
 Cỏ sỏ dữ liệu là một bộ sưu tập các dữ liệu tác nghiệp được lưu trữ lại và được các hệ hệ ứng dụng của 1 xí nghiệp cụ thể nào đó sử dụng.
@@ -16,9 +18,11 @@ Hệ quản trị cơ sở dữ liệu được coi như một bộ diễn dịc
 -	Đảm bảo tính độc lập dữ liệu tức là tính bất biến của hệ ứng dụng trong chương trình lưu trữ và chiến  lược truy nhập.
 -	Có đầy đủ các phép thao tác dữ liệu ( bổ sung, sửa đổi, xoá, tìm kiếm )
 -	Có ngôn ngữ giao diện
+-	
 3. Giới thiệu về Access
 Access là một hệ quản trị cơ sở dữ liệu trên môi trường Windows. Nó dựng để tạo ra các cơ sở dữ liệu (chương trình+dữ liệu) cho hầu hết các bài toán thường gặp trong quản lý, thống kê, kế toán, dự toán... bằng các công cụ hữu hiệu của riêng nó.
-Microsoft Access là một thành phần của bộ Tin học văn phòng của Tập đoàn phần mềm lớn nhất thế giới Microsoft. Đây là Hệ quản trị cơ sở dữ liệu quan hệ rất mạnh. Có giao diện thân thiện, dễ sử dụng. 
+Microsoft Access là một thành phần của bộ Tin học văn phòng của Tập đoàn phần mềm lớn nhất thế giới Microsoft. Đây là Hệ quản trị cơ sở dữ liệu quan hệ rất mạnh. Có giao diện thân thiện, dễ sử dụng.
+
 4. Mục đích của Quản ly đoàn viên?
 Quản lý đoàn viên là ta quản lý các thông tin về đoàn viên là sinh viên trong các trường Đại học
  Các thao tác trong quá trình Quản lý là ta phải lưu hồ sơ về Đoàn viên, tạo mới, sửa đổi, bổ sung, loại bỏ các thông tin hoặc hồ sơ Đoàn viên. Các tiện ích hỗ trợ người quản lý mà chương trình Quản lý Đoàn viên phải có là : Tìm kiếm, Báo cáo,Tính toán, In ấn , …
