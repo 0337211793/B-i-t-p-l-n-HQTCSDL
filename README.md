@@ -1,9 +1,13 @@
 Mục Lục:
 
 CHƯƠNG I. KHẢ NĂNG CỦA CƠ SỞ DỮ LIỆU	
+
 1.Lời nói đầu	
+
 2. Khái niệm về cơ sở dữ liệu và Hệ quản trị cơ sở dữ liệu	
+
 3. Giới thiệu về Access	
+
 4. Mục đích của Quản ly đoàn viên?	
 
 CHƯƠNG II. PHÂN TÍCH CƠ SỞ DỮ LIỆU	
@@ -52,7 +56,7 @@ Sử dụng chương trình - Ví dụ
 1. Nhập các thông số ban đầu
 
 3. Nhập số liệu
-4. 
+
 5. Xem dữ liệu
 
 4.Tìm kiếm	
@@ -60,6 +64,15 @@ Sử dụng chương trình - Ví dụ
 7.  Báo cáo và thống kê
    
 9. In ấn	
+
+
+
+
+
+
+
+
+
 
 
 
