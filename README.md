@@ -17,6 +17,7 @@ II . Đối tượng Form
 Hình 32 – form F_Thay mat khau	
 
 III . Macro và hệ thống menu	
+
 1. Macros	
 2 . Hệ thống menu	
 a. Menu Nhap du lieu	
