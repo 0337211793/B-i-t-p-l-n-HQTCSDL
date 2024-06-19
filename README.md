@@ -1,4 +1,4 @@
-![Ảnh chụp màn hình 2024-06-19 020638](https://github.com/0337211793/B-i-t-p-l-n-HQTCSDL/assets/169513994/d86c4afc-60df-4bd5-b750-56af556d5a83)CHƯƠNG I. KHẢ NĂNG CỦA CƠ SỞ DỮ LIỆU
+CHƯƠNG I. KHẢ NĂNG CỦA CƠ SỞ DỮ LIỆU
 
 1.Lời nói đầu
 Kỷ nguyên công nghệ thông tin – tên mà người ta vẫn thường gọi kỷ nguyên mà chúng ta đang sống. Khi đi bất cứ đâu ta cũng bắt gặp công nghệ thông tin. Nó xâm nhập vào mọi lĩnh vực của đời sống xã hội, mọi nghành, mọi nghề, mọi lĩnh vực. Ngày nay, không ai còn nghi ngờ gì về vai trò của thông tin trong đời sống, trong kỹ thuật, trong kinh doanh, trong quản lý,…Việc nắm bắt thông tin nhanh, chính xác kịp thời ngày càng có vai trò quyết định cho công tác quản lý điều hành. Nói cách khác ngày nay, Quản Lý thực chất là Quản lý thông tin. Để quản lý được các thông tin đó trên máy tình thì các thông tin đó bao giờ cũng được thể hiện bằng Dữ liệu ( Data) ghi trên dạng tải nào đó. Bởi vậy khi ta nói quản lý thông tin là Quản lý dữ liệu.
