@@ -102,6 +102,7 @@ Lược đồ  quan hệ (trang sau):
 
 
 
+
           
 
                                                                                               
@@ -110,6 +111,14 @@ Ta phân tích thành như sau để đưa về dạng chuẩn hoá
 
 
 		
+
+
+
+![Ảnh chụp màn hình 2024-06-19 014238](https://github.com/0337211793/B-i-t-p-l-n-HQTCSDL/assets/169513994/14f8a7ac-4f76-43b7-af8a-3faf677aba19)
+
+
+
+
 
 
 
