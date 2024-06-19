@@ -15,9 +15,7 @@ I. Đối tượng bảng
 2. Các quan hệ	
 II . Đối tượng Form	
 Hình 32 – form F_Thay mat khau	
-
 III . Macro và hệ thống menu	
-
 1. Macros	
 2 . Hệ thống menu	
 a. Menu Nhap du lieu	
@@ -27,10 +25,8 @@ d.Menu Timkiem
 e.Menu Bao cao	
 f.Menu In an	
 g. Menu Thoat
-
 IV .Đối tượng  Querrry	
 Hệ thống Querry	
-
 V .Đối tượng  report		
 Sử dụng chương trình - Ví dụ	
 1. Nhập các thông số ban đầu	
